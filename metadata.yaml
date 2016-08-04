@@ -1,0 +1,38 @@
+_repo: Prester-John_611
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Buchan, John
+    alias: Tweedsmuir, John Buchan, Baron
+    birthdate: 1875
+    deathdate: 1940
+    gutenberg_agent_id: '285'
+    url: http://www.gutenberg.org/2009/agents/285
+    wikipedia: http://en.wikipedia.org/wiki/John_Buchan,_1st_Baron_Tweedsmuir
+description: 'Published in 1910, this novel relates the African adventures of David
+  Crawfurd, a young Scot who finds himself enmeshed in a Zulu uprising that bears
+  mysterious links to the medieval legend of Prester John. The action-packed story
+  follows David as he falls in and out of danger with the Zulu leader, Laputa. <P
+  style=MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify> <P class=MsoNoSpacing style=MARGIN:
+  0in 0in 0pt>'
+gutenberg_bookshelf:
+- Movie Books
+- Adventure
+gutenberg_issued: '1996-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '611'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Africa -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Scots -- South Africa -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Zulu (African people) -- Fiction'
+- GITenberg
+title: Prester John
+url: http://www.gutenberg.org/ebooks/611
