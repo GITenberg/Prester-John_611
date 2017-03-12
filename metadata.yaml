@@ -1,5 +1,8 @@
 _repo: Prester-John_611
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Buchan, John
@@ -15,6 +18,8 @@ description: 'Published in 1910, this novel relates the African adventures of Da
   follows David as he falls in and out of danger with the Zulu leader, Laputa. <P
   style=MARGIN: 0in 0in 0pt; TEXT-ALIGN: justify> <P class=MsoNoSpacing style=MARGIN:
   0in 0in 0pt>'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/611#Prester-John
 gutenberg_bookshelf:
 - Movie Books
 - Adventure
